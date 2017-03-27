@@ -1,0 +1,8 @@
+platform :ios, ‘8.0’
+use_frameworks!
+
+target ‘SideMenu’ do
+
+pod 'SWRevealViewController', '~> 2.3'
+
+end
